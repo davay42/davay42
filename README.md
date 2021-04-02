@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi 👋
+My name is Denis. I'm a frontend developer, designer and tinkerer. Building my dream interfaces for more than 5 years. And yet barely started )
 
-<!--
-**DeFUCC/DeFUCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My current web dev stack
+- [Vue 3](https://v3.vuejs.org) - for reactive components and robust composables
+  - [VueUse](https://vueuse.org) - for very useful small js tools
+- [Vite](https://vitejs.dev) - for lightning fast dev experience
+- [pug](https://pugjs.org) - for short and easlly readable html templating in Vue SFCs
+- [Windi Css](https://windicss.org/) - for utility-first ultrafast css styling
+- [GUN](https://gun.eco) - for a decentralized reactive database
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current NPM contributions
+- [gun-avatar](https://github.com/DeFUCC/gun-avatar) - a simple js avatar generator for use with gun `SEA` cryptographic keypairs

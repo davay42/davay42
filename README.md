@@ -14,8 +14,9 @@ My name is Denis. I'm a designer, frontend developer, and engineer. Building my 
 - [Windi CSS](https://windicss.org/) - ultrafast utility-first css styling
 - [GUN](https://gun.eco) -  decentralized reactive database
 - [Paper.js](http://paperjs.org) - easy vector graphics manipulations
-- [webmidi](https://github.com/djipco/webmidi) - easy to use wrapper for web midi api
+- [webmidi.js](https://github.com/djipco/webmidi) - easy to use wrapper for web midi api
 - [ToneJS](https://tonejs.github.io/) - nice wrapper over web audio api for more musical use of it
 
 ## Current NPM contributions
 - [gun-avatar](https://github.com/DeFUCC/gun-avatar) - a simple js avatar generator for use with gun `SEA` cryptographic keypairs
+

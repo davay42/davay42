@@ -1,7 +1,7 @@
 # Hi 👋
 My name is Denis. I'm a designer, frontend developer, and engineer. Building my dream interfaces web sites and apps. And yet barely started )
 
-## Visual music language [github.com/chromatone](https://github.com/chromatone)
+## Author and lead dev at [github.com/chromatone](https://github.com/chromatone) – the visual music language 
 
 Many of my interactive web applications are based on my own research of sound and music. It all comes up to a whole new way of seeing music. WebMIDI, ToneJS, PaperJS and many more pieces of great thought bring up a collection of open-souce web applications.
 

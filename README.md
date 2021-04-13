@@ -5,8 +5,8 @@ My name is Denis. I'm a designer, frontend developer, and engineer. Building my 
 
 Many of my interactive web applications are based on my own research of sound and music. It all comes up to a whole new way of seeing music. WebMIDI, ToneJS, PaperJS and many more pieces of great thought bring up a collection of open-souce web applications.
 
-[github.com/chromatone](https://github.com/chromatone)
-[chromatone.center](https://chromatone.center)
+- [github.com/chromatone](https://github.com/chromatone)
+- [www.chromatone.center](https://chromatone.center)
 
 
 ## My current web dev stack

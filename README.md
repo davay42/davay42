@@ -1,5 +1,5 @@
 # Hi 👋
-My name is Denis. I'm a designer, frontend developer, and engineer. Building my dream interfaces web sites and apps. And yet barely started )
+My name is Denis. I'm a designer, frontend developer, and engineer. Building my dream interfaces web sites and apps for more than 10 years. And yet barely started )
 
 ## Author and lead developer at Chromatone – the visual music language 
 

@@ -8,6 +8,13 @@ Many of my interactive web applications are based on my own research of sound an
 - [github.com/chromatone](https://github.com/chromatone)
 - [www.chromatone.center](https://chromatone.center)
 
+## Author of Etovoteto – a word creation board game
+
+It's very strange, that every human can easily create a new imaginary word, but we use this opportunity too rarely. We've invented a funny way to play with new words and their meanings.
+
+- [github.com/etovoteto](https://github.com/etovoteto)
+- [www.etovoteto.ru](https://etovoteto.ru)
+
 
 ## My current web dev stack
 - [vue 3](https://v3.vuejs.org) - reactive components and robust composables

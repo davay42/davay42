@@ -1,6 +1,13 @@
 # Hi 👋
 My name is Denis. I'm a designer, frontend developer, and engineer. I'm building my dream interfaces, web sites and apps for more than 10 years. And yet barely started )
 
+## [DeFUCC](https://github.com/DeFUCC) - Development Foundation for Universalization, Cooperation and Creativity
+#### Founder, sociocultural designer and writer
+
+In 2012 I've founded an informal open organisation, meaning it doesn't any kind of permission to operate. It's all about people being kind to each other, contributing to projects of each other in the form of collaborative effort or free donations to empower one another.
+
+- [github.com/DeFUCC](https://github.com/DeFUCC)
+- [defucc.me](https://defucc.me)
 
 ## [Chromatone](https://github.com/chromatone) – the visual music language 
 #### Author, researcher and developer 

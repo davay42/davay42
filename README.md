@@ -22,6 +22,8 @@ From our research we found that every human can easily create a new imaginary wo
 ## My current web dev stack
 - [vue 3](https://v3.vuejs.org) - reactive components and robust composables
   - [vueUse](https://vueuse.org) - very useful small js tools
+   - [vueUse/motion](https://github.com/vueuse/motion) - great UI animations
+   - [vueUse/gesture](https://github.com/vueuse/gesture) - nice interactions
 - [vite](https://vitejs.dev) - lightning fast dev experience
   - [vitepress](https://vitepress.vuejs.org) - fast and very open static site builder
   - [vite-plugin-icons](https://github.com/antfu/vite-plugin-icons) - amazing svg icons usage experience

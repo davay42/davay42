@@ -2,20 +2,22 @@
 My name is Denis. I'm a designer, frontend developer, and engineer. I'm building my dream interfaces, web sites and apps for more than 10 years. And yet barely started )
 
 
-## [Chromatone](https://chromatone.center) – the visual music language 
+## [Chromatone](https://github.com/chromatone) – the visual music language 
 #### Author, researcher and developer 
 
 Many of my interactive web applications are based on my own research of sound and music. It all comes up to a whole new way of seeing music. WebMIDI, ToneJS, PaperJS and many more pieces of great thought bring up a collection of open-souce web applications.
 
 - [github.com/chromatone](https://github.com/chromatone)
+- [chromatone.center](https://chromatone.center)
 
 
-## [Etovoteto](https://etovoteto.ru) – the word creation board game and the dictionary of imaginary words
+## [Etovoteto](https://github.com/etovoteto) – the word creation board game and the dictionary of imaginary words
 #### Author, designer and developer 
 
 From our research we found that every human can easily create a new imaginary word, and using this opportunity is very interesting and fun. We're inventing easy ways to play with new words and their meanings.
 
 - [github.com/etovoteto](https://github.com/etovoteto)
+- [etovoteto.ru](https://etovoteto.ru)
 
 
 ## [OOLEY](https://ooley.ru) – the portal about makerspaces and portable creativity

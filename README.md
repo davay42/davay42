@@ -53,3 +53,7 @@ From our research we found that every human can easily create a new imaginary wo
 ## Current NPM contributions
 - [gun-avatar](https://github.com/DeFUCC/gun-avatar) - a simple js avatar generator for use with gun `SEA` cryptographic keypairs
 
+## You can share love and support my dedication to open source development
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B44CM90)
+

@@ -1,9 +1,6 @@
 # Hi 👋
 My name is Denis. I'm a designer, frontend developer, and engineer. I'm building my dream interfaces, web sites and apps for more than 10 years. And yet barely started )
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B44CM90)
-
-
 ## [DeFUCC](https://github.com/DeFUCC) - Development Foundation for Universalization, Cooperation and Creativity
 #### Founder, sociocultural designer and writer
 

@@ -10,7 +10,7 @@ Many of my interactive web applications are based on my own research of sound an
 - [chromatone.center](https://chromatone.center)
 
 ## [DeFUCC](https://github.com/DeFUCC) - Development Foundation for Universalization, Cooperation and Creativity
-#### Founder, sociocultural designer and writer
+#### Founder, sociocultural designer and researcher
 
 In 2012 I've founded an informal open organisation, meaning it doesn't any kind of permission to operate. It's all about people being kind to each other, contributing to projects of each other in the form of collaborative effort or free donations to empower one another.
 

@@ -17,6 +17,15 @@ In 2012 I've founded an informal open organisation, meaning it doesn't any kind 
 - [github.com/DeFUCC](https://github.com/DeFUCC)
 - [defucc.me](https://defucc.me)
 
+## [tsoop.ru](https://github.com/tsoop-ru) – the live multimedia generation project
+#### Composer, musician and designer
+
+It's my live electronic music project, aimed at collaborative approach. I use synths, controllers and soft for creating a fully immersive live media experience. I want you to see the music and to hear the things you see around.
+
+- [github.com/tsoop-ru](https://github.com/tsoop-ru)
+- [tsoop.ru](https://tsoop.ru)
+- [instagram.com/tsoop.ru](https://instagram.com/tsoop.ru)
+
 
 ## [Etovoteto](https://github.com/etovoteto) – the word creation board game and the dictionary of imaginary words
 #### Author, designer and developer 

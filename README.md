@@ -61,6 +61,7 @@ From our research we found that every human can easily create a new imaginary wo
 
 ## Current NPM contributions
 - [gun-avatar](https://github.com/DeFUCC/gun-avatar) - a simple js avatar generator for use with gun `SEA` cryptographic keypairs
+- [vitepress-tags](https://www.npmjs.com/package/vitepress-tags) - Easily create a blog, a digital garden or a directory from your markdown content and vitepress. 
 
 ## You can share love and support my dedication to open source development
 

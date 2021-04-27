@@ -1,44 +1,11 @@
 # Hi 👋
 My name is Denis. I'm a designer, frontend developer, and engineer. I'm building my dream interfaces, web sites and apps for more than 10 years. And yet barely started )
 
-## [Chromatone](https://github.com/chromatone) – the visual music language 
-#### Author, researcher and developer 
+I've founded and develop a couple of open source sociocultural projects. It means they start from a great idea and clean goals, then find the people to conciously engage in the charity community. I create open source social beneficial projects and look for two kinds of people: those who have wish and opportunity to participate in the development and realisation processes, and those who may support them by a star, a post or a donation. So the initiatives will live as long as we like them! ✨
 
-Many of my interactive web applications are based on my own research of sound and music. It all comes up to a whole new way of seeing music. WebMIDI, ToneJS, PaperJS and many more pieces of great thought bring up a collection of open-souce web applications.
+## My initiatives on GitHub
 
-- [github.com/chromatone](https://github.com/chromatone)
-- [chromatone.center](https://chromatone.center)
-
-## [DeFUCC](https://github.com/DeFUCC) - Development Foundation for Universalization, Cooperation and Creativity
-#### Founder, sociocultural designer and researcher
-
-In 2012 I've founded an informal open organisation, meaning it doesn't any kind of permission to operate. It's all about people being kind to each other, contributing to projects of each other in the form of collaborative effort or free donations to empower one another.
-
-- [github.com/DeFUCC](https://github.com/DeFUCC)
-- [defucc.me](https://defucc.me)
-
-## [tsoop.ru](https://github.com/tsoop-ru) – the live multimedia generation project
-#### Composer, musician and designer
-
-It's my live electronic music project, aimed at collaborative approach. I use synths, controllers and soft for creating a fully immersive live media experience. I want you to see the music and to hear the things you see around.
-
-- [github.com/tsoop-ru](https://github.com/tsoop-ru)
-- [tsoop.ru](https://tsoop.ru)
-- [instagram.com/tsoop.ru](https://instagram.com/tsoop.ru)
-
-
-## [Etovoteto](https://github.com/etovoteto) – the word creation board game and the dictionary of imaginary words
-#### Author, designer and developer 
-
-From our research we found that every human can easily create a new imaginary word, and using this opportunity is very interesting and fun. We're inventing easy ways to play with new words and their meanings.
-
-- [github.com/etovoteto](https://github.com/etovoteto)
-- [etovoteto.ru](https://etovoteto.ru)
-
-
-## [OOLEY](https://ooley.ru) – the portal about makerspaces and portable creativity
-#### Writer, producer and editor 
-- [OOLEY.RU](https://ooley.ru)
+[Chromatone](https://github.com/chromatone) – the visual music language, [DeFUCC](https://github.com/DeFUCC) - Development Foundation for Universalization, Cooperation and Creativity, [tsoop.ru](https://github.com/tsoop-ru) – the live multimedia generation project, [Etovoteto](https://github.com/etovoteto) – the word creation board game and the dictionary of imaginary words], [OOLEY](https://ooley.ru) – the portal about makerspaces and portable creativity and there's more. My main way of expression are websites and webapps, so I'm deep into the modern frontend development. And I welcome you here! 🌊
 
 
 ## My current web dev stack

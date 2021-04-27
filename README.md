@@ -7,8 +7,11 @@ I've founded and develop a couple of open source sociocultural projects. It mean
 
 [Chromatone](https://github.com/chromatone) – the visual music language, [DeFUCC](https://github.com/DeFUCC) - Development Foundation for Universalization, Cooperation and Creativity, [tsoop.ru](https://github.com/tsoop-ru) – the live multimedia generation project, [Etovoteto](https://github.com/etovoteto) – the word creation board game and the dictionary of imaginary words], [OOLEY](https://ooley.ru) – the portal about makerspaces and portable creativity and there's more. My main way of expression are websites and webapps, so I'm deep into the modern frontend development. And I welcome you here! 🌊
 
+## NPM contributions
+- [gun-avatar](https://github.com/DeFUCC/gun-avatar) - a simple js avatar generator for use with gun `SEA` cryptographic keypairs
+- [vitepress-tags](https://www.npmjs.com/package/vitepress-tags) - Easily create a blog, a digital garden or a directory from your markdown content and vitepress. 
 
-## My current web dev stack
+## My frontend dev stack
 - [vue 3](https://v3.vuejs.org) - reactive components and robust composables
   - [vueUse](https://vueuse.org) - very useful small js tools
    - [vueUse/motion](https://github.com/vueuse/motion) - great UI animations
@@ -26,11 +29,8 @@ I've founded and develop a couple of open source sociocultural projects. It mean
 - [webmidi.js](https://github.com/djipco/webmidi) - easy to use wrapper for web midi api
 - [ToneJS](https://tonejs.github.io/) - nice wrapper over web audio api for more musical use of it
 
-## Current NPM contributions
-- [gun-avatar](https://github.com/DeFUCC/gun-avatar) - a simple js avatar generator for use with gun `SEA` cryptographic keypairs
-- [vitepress-tags](https://www.npmjs.com/package/vitepress-tags) - Easily create a blog, a digital garden or a directory from your markdown content and vitepress. 
 
-## You can share love and support my dedication to open source development
+## Share love and show support for the open source development today!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B44CM90)
 

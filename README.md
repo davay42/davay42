@@ -3,9 +3,9 @@ My name is Denis. I'm a designer, frontend developer, and engineer. I'm building
 
 I've founded and develop a couple of open source sociocultural projects. It means they start from a great idea and clean goals, then find the people to conciously engage in the charity community. I create open source social beneficial projects and look for two kinds of people: those who have wish and opportunity to participate in the development and realisation processes, and those who may support them by a star, a post or a donation. So the initiatives will live as long as we like them! ✨
 
-## GitHub organisations
+## My GitHub hosted initiatives
 
-[Chromatone](https://github.com/chromatone) – the visual music language, [tsoop.ru](https://github.com/tsoop-ru) – the live multimedia generation project,  [Etovoteto](https://github.com/etovoteto) – the word creation board game and the dictionary of imaginary words], [DeFUCC](https://github.com/DeFUCC) - Development Foundation for Universalization, Cooperation and Creativity,  [OOLEY](https://ooley.ru) – the portal about makerspaces and portable creativity and there's more. My main way of expression are websites and webapps, so I'm deep into the modern frontend development. And I welcome you here! 🌊
+[Chromatone](https://github.com/chromatone) – the visual music language, [tsoop.ru](https://github.com/tsoop-ru) – the live multimedia generation project,  [Etovoteto](https://github.com/etovoteto) – the word creation board game and the dictionary of imaginary words], [DeFUCC](https://github.com/DeFUCC) - Development Foundation for Universalization, Cooperation and Creativity, and there's more. My main way of expression are websites and webapps, so I'm deep into the modern frontend development. And I welcome you here! 🌊
 
 ## NPM contributions
 - [gun-avatar](https://github.com/DeFUCC/gun-avatar) - a simple js avatar generator for use with gun `SEA` cryptographic keypairs

@@ -32,7 +32,7 @@ I've founded and develop a couple of open source sociocultural projects. It mean
 
 ## Share love!
 
-I can sustain myself on commercial projects, but it takes time. The time I would be happy to spend on building free and open source projects for societal benefit. You can support open source projects now. Simply buy me a coffee to stay focused on them! 🤓 Or buy some project stickers there too.
+I can sustain myself on commercial projects, but it takes time. The time I would be happy to spend on building free and open source projects for societal benefit. You can support open source projects now. Simply buy me a coffee to stay focused on them! ☕️
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B44CM90)
 

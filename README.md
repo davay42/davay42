@@ -30,7 +30,9 @@ I've founded and develop a couple of open source sociocultural projects. It mean
 - [ToneJS](https://tonejs.github.io/) - nice wrapper over web audio api for more musical use of it
 
 
-## Share love and show support for the open source development today!
+## Share love!
+
+I can sustain myself on commercial projects, but it takes time. The time I would be happy to spend on building free and open source projects for societal benefit. You can support open source projects now. Just buy me a coffee to stay focused on them! 🤓
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B44CM90)
 

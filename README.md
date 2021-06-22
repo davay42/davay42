@@ -1,7 +1,7 @@
 # Hi 👋
 My name is Denis. I'm a designer, frontend developer, and engineer. I'm building my dream interfaces, web sites and apps for more than 10 years. And yet barely started )
 
-I've founded and develop a couple of open source sociocultural projects. It means they start from a great idea and clean goals, then find the people to conciously engage in the charity community. I create open source social beneficial projects and look for two kinds of people: those who have wish and opportunity to participate in the development and realisation processes, and those who may support them by a star, a post or a donation. So the initiatives will live as long as we like them! ✨
+I've founded and continue developing a couple of open source sociocultural projects. It means they start from a great idea and clean goals, then find the people to conciously engage in the charity community. I create open source social beneficial projects and look for two kinds of people: those who have wish and opportunity to participate in the development and realisation processes, and those who may support them by a star, a post or a donation. So the initiatives will live as long as we like them! ✨
 
 ## My GitHub hosted initiatives
 

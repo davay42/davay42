@@ -18,8 +18,9 @@ I've founded and continue developing a couple of open source sociocultural proje
    - [vueUse/gesture](https://github.com/vueuse/gesture) - nice interactions
 - [vite](https://vitejs.dev) - lightning fast dev experience
   - [vitepress](https://vitepress.vuejs.org) - fast and very open static site builder
-  - [vite-plugin-icons](https://github.com/antfu/vite-plugin-icons) - amazing svg icons usage experience
-  - [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - no more importing components – just use them!
+  - [unplugin-icons](https://github.com/antfu/unplugin-icons) - amazing svg icons usage experience
+  - [unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) - no more importing components – just use them!
+  - [unplugin-auto-import](https://github.com/antfu/unplugin-auto-import) - no need to import vue reactivity primitives
   - [vite-plugin-windicss](https://windicss.org/guide/vite.html) - windi css utilities and more in vite
   - [vite-plugin-voie](https://github.com/brattonross/vite-plugin-voie) - file based routing for vue apps
 - [pug](https://pugjs.org) -  short and easlly readable html templating in Vue SFCs

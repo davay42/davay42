@@ -3,12 +3,18 @@ My name is Denis. I'm a designer, frontend developer, and engineer. I'm building
 
 I've founded and continue developing a couple of open source sociocultural projects. It means they start from a great idea and clean goals, then find the people to conciously engage in the charity community. I create open source social beneficial projects and look for two kinds of people: those who have wish and opportunity to participate in the development and realisation processes, and those who may support them by a star, a post or a donation. So the initiatives will live as long as we like them! ✨
 
-## My GitHub hosted initiatives
+## My projects
 
-[Chromatone](https://github.com/chromatone) – the visual music language, [tsoop.ru](https://github.com/tsoop-ru) – the live multimedia generation project,  [Etovoteto](https://github.com/etovoteto) – the word creation board game and the dictionary of imaginary words], [DeFUCC](https://github.com/DeFUCC) - Development Foundation for Universalization, Cooperation and Creativity, and there's more. My main way of expression are websites and webapps, so I'm deep into the modern frontend development. And I welcome you here! 🌊
+- [Chromatone](https://github.com/chromatone) – the visual music language, 
+- [tsoop.ru](https://github.com/tsoop-ru) – the live multimedia generation project,  
+- [Etovoteto](https://github.com/etovoteto) – the word creation board game and the dictionary of imaginary words], 
+- [DeFUCC](https://github.com/DeFUCC) - Development Foundation for Universalization, Cooperation and Creativity, and there's more. 
+- 
+- My main way of expression are websites and webapps, so I'm deep into the modern frontend development. And I welcome you here! 🌊
 
 ## NPM contributions
-- [gun-avatar](https://github.com/DeFUCC/gun-avatar) - a simple js avatar generator for use with gun `SEA` cryptographic keypairs
+- [@gun-vue](https://github.com/DeFUCC/gun-vue) - a toolset for easy p2p app development with Gun database and Vue 3 reactive components system
+- [gun-avatar](https://www.npmjs.com/package/gun-avatar) - a simple js avatar generator for use with gun `SEA` cryptographic keypairs
 - [vitepress-tags](https://www.npmjs.com/package/vitepress-tags) - Easily create a blog, a digital garden or a directory from your markdown content and vitepress. 
 
 ## Modern frontend dev stack

@@ -9,7 +9,7 @@ I've founded and continue developing a couple of open source sociocultural proje
 - [tsoop.ru](https://github.com/tsoop-ru) – the live multimedia generation project,  
 - [Etovoteto](https://github.com/etovoteto) – the word creation board game and the dictionary of imaginary words], 
 - [DeFUCC](https://github.com/DeFUCC) - Development Foundation for Universalization, Cooperation and Creativity, and there's more. 
-- 
+- [OOLEY](https://github.com/ooley) - Open source resource about makerspaces all over the world
 - My main way of expression are websites and webapps, so I'm deep into the modern frontend development. And I welcome you here! 🌊
 
 ## NPM contributions

@@ -14,20 +14,12 @@ I've founded and continue developing a couple of open source sociocultural proje
 ## Modern frontend dev stack
 - [vue 3](https://v3.vuejs.org) - reactive components and robust composables
   - [vueUse](https://vueuse.org) - very useful small js tools
-   - [vueUse/motion](https://github.com/vueuse/motion) - great UI animations
-   - [vueUse/gesture](https://github.com/vueuse/gesture) - nice interactions
 - [vite](https://vitejs.dev) - lightning fast dev experience
   - [vitepress](https://vitepress.vuejs.org) - fast and very open static site builder
-  - [unplugin-icons](https://github.com/antfu/unplugin-icons) - amazing svg icons usage experience
-  - [unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) - no more importing components – just use them!
-  - [unplugin-auto-import](https://github.com/antfu/unplugin-auto-import) - no need to import vue reactivity primitives
-  - [vite-plugin-windicss](https://windicss.org/guide/vite.html) - windi css utilities and more in vite
-  - [vite-plugin-voie](https://github.com/brattonross/vite-plugin-voie) - file based routing for vue apps
 - [pug](https://pugjs.org) -  short and easlly readable html templating in Vue SFCs
 - [windi CSS](https://windicss.org/) - ultrafast utility-first css styling
 - [GUN](https://gun.eco) -  decentralized reactive database
 - [Paper.js](http://paperjs.org) - easy vector graphics manipulations
-- [webmidi.js](https://github.com/djipco/webmidi) - easy to use wrapper for web midi api
 - [ToneJS](https://tonejs.github.io/) - nice wrapper over web audio api for more musical use of it
 
 

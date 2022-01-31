@@ -12,10 +12,16 @@ I've founded and continue developing a couple of open source sociocultural proje
 - [OOLEY](https://github.com/ooley42) - Open source resource about makerspaces all over the world
 - My main way of expression are websites and webapps, so I'm deep into the modern frontend development. And I welcome you here! 🌊
 
-## NPM contributions
+## NPM packages
 - [@gun-vue](https://github.com/DeFUCC/gun-vue) - a toolset for easy p2p app development with Gun database and Vue 3 reactive components system
 - [gun-avatar](https://www.npmjs.com/package/gun-avatar) - a simple js avatar generator for use with gun `SEA` cryptographic keypairs
 - [vitepress-tags](https://www.npmjs.com/package/vitepress-tags) - Easily create a blog, a digital garden or a directory from your markdown content and vitepress. 
+
+## Statistics
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davay42&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davay42&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Modern frontend dev stack
 - [vue 3](https://v3.vuejs.org) - reactive components and robust composables

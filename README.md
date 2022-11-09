@@ -40,6 +40,5 @@ I've founded and continue developing a couple of open source sociocultural proje
 
 I can sustain myself on commercial projects, but it takes time. The time I would be happy to spend on building free and open source projects for societal benefit. You can support open source development now. Simply buy me a coffee to stay focused on it! ☕️
 
-<iframe src="https://github.com/sponsors/davay42/button" title="Sponsor davay42" height="35" width="116" style="border: 0;"></iframe>
-
+https://github.com/sponsors/davay42
 

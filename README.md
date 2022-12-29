@@ -1,8 +1,6 @@
 # Hi 👋
 My name is Denis. I'm a designer, a frontend developer, and an engineer. I'm building my dream interfaces, web sites and apps for more than 10 years. And yet barely started!
 
-[Sponsor me!](https://github.com/sponsors/davay42)
-
 I've founded and continue developing a couple of open source sociocultural projects. It means they start from a great idea and clean goals, then find the people to conciously engage in the charity community. I create open source social projects and look for two kinds of people: 
 - those who have a will and opportunity to participate in the project development and realisation, 
 - and those who may support us by a star, a post or a donation. 
@@ -44,9 +42,9 @@ So the initiatives will stay alive as long as we have fun building it together! 
 - [Tauri](https://tauri.app/) - a tool to build an optimized, secure, and frontend-independent application for multi-platform deployment
 
 
-## Share love!
+## [Share love!](https://github.com/sponsors/davay42)
 
-I can sustain myself on commercial projects, but it takes time. The time I would be happy to spend on building free and open source projects for societal benefit. You can support open source development now. Simply buy me a coffee to stay focused on it! ☕️
+I can sustain myself on commercial projects, but it takes time. The time I would be happy to spend on building free and open source projects for societal benefit. You can support open source development now. Start sponsoring me today to keep me 100% focused! ☕️
 
-https://github.com/sponsors/davay42
+[Sponsor me!](https://github.com/sponsors/davay42)
 

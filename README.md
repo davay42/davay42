@@ -1,6 +1,8 @@
 # Hi 👋
 My name is Denis. I'm a designer, a frontend developer, and an engineer. I'm building my dream interfaces, web sites and apps for more than 10 years. And yet barely started!
 
+[Sponsor me!](https://github.com/sponsors/davay42)
+
 I've founded and continue developing a couple of open source sociocultural projects. It means they start from a great idea and clean goals, then find the people to conciously engage in the charity community. I create open source social projects and look for two kinds of people: 
 - those who have a will and opportunity to participate in the project development and realisation, 
 - and those who may support us by a star, a post or a donation. 

@@ -46,5 +46,5 @@ So the initiatives will stay alive as long as we have fun building it together! 
 
 I can sustain myself on commercial projects, but it takes time. The time I would be happy to spend on building free and open source projects for societal benefit. You can support open source development now. Start sponsoring me today to keep me 100% focused! ☕️
 
-[Sponsor me!](https://github.com/sponsors/davay42)
+[Support my work today!](https://github.com/sponsors/davay42)
 

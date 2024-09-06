@@ -4,25 +4,23 @@ My name is Denis. I could be a designer, a frontend developer, or an engineer, b
 I've founded and continue development a network of open source sociocultural projects today. Each project starts from a good idea and transparent goals, then find the people to conciously engage in volunteering for the best. I started creating open source social projects by myself, but there are numerous collaborations that demonstrated them as really viable for real people and communities. I would be glad to meet new engaged people along the way. And would be happy if you somehow know why it's good for you and your friends to: 
 
 A. participate in any of our projects development and realisation in any role and position, 
-B. support us by a star, mention, post or donation or any other resources you are willing to share
+B. support my projects with a star, mention, post, donation or any other resources you are willing to invest in brighter future for all.
  
-So the initiatives will stay alive as long as we have fun building it together! ✨
+So the initiatives will keep living for as long as we have fun making world better together! ✨
 
 ## My web projects
 
-- [Chromatone](https://github.com/chromatone) – the visual music language
-- [tsoop.com](https://github.com/tsoop-com) – the live multimedia generation project
+- [Chromatone](https://github.com/chromatone) – Visual Music Language research center
+- [tsoop.com](https://github.com/tsoop-com) – Live multimedia generation - portable collaborative music laboratory
 - [DeFUCC](https://github.com/DeFUCC) - Development Foundation for Universalization, Cooperation and Creativity, and there's more
-- [OOLEY](https://github.com/ooley42) - Open source resource about makerspaces in Russia and all over the world
-- [Etovoteto](https://github.com/etovoteto) – the word creation board game and the dictionary of imaginary words
+- [OOLEY](https://github.com/ooley42) - Open resource for open makerspaces in Russia and all over the world
+- [Etovoteto](https://github.com/etovoteto) – Word creation board game and the dictionary of imaginary words
 
 ## 📦 NPM packages maintained 
 
 - [@gun-vue](https://github.com/DeFUCC/gun-vue) - toolset for easy p2p app development with Gun database and Vue 3 reactive components system
 - [gun-avatar](https://github.com/DeFUCC/gun-avatar) - simple JS avatar generator for use with gun `SEA` cryptographic keypairs
-- [use-chromatone](https://github.com/chromatone/chromatone.center) - the interactive visual music toolkit
-- [vitepress-pages](https://github.com/davay42/vitepress-pages) - Parse markdown pages structure to build Vitepress site navigation
-- [vitepress-tags](https://github.com/davay42/vitepress-tags) - Easily create a blog, a digital garden or a directory from your markdown content and vitepress. 
+- [use-chromatone](https://github.com/chromatone/chromatone.center) - interactive visual music toolkit
 
 ## Statistics
 
@@ -40,16 +38,10 @@ So the initiatives will stay alive as long as we have fun building it together! 
 - [UnoCSS](https://github.com/unocss/unocss) - ultrafast utility-first css styling
 - [GUN](https://gun.eco) -  distributed reactive p2p graph database
 - [Paper.js](http://paperjs.org) - easy vector graphics manipulations
-- [Elementary.audio](https://elementary.audio) - high performance JS+WASM audio engine
 - [WEBMIDI.js](https://webmidijs.org/) - wrapper over Web Midi API for more musical scale of interactions
+- [Elementary.audio](https://elementary.audio) - high performance JS+WASM audio engine
 - [ToneJS](https://tonejs.github.io/) - wrapper over Web Audio API for more musical scale of interactions
 - [Capacitor](https://capacitorjs.com/) - toolbox to create multiplatform mobile apps
 - [Tauri](https://tauri.app/) - tool to build optimized, secure, and frontend-independent applications for multi-platform deployments
 
-
-## [Share love!](https://github.com/sponsors/davay42)
-
-I can sustain myself on commercial projects, but it takes cognitive time. The time I would be happy to invest in building more and better free and open source projects for societal benefit. You can support open source development today. Start sponsoring me today to keep me 100% focused on the best for us all! ✊
-
-[Support my work today!](https://github.com/sponsors/davay42)
-
+I can sustain myself on commercial projects, but it takes cognitive time. The time I would be happy to invest in building more and better free and open source projects for societal benefit. You can become a part open source development society today. Contact me for more.

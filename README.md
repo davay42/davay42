@@ -22,7 +22,7 @@ So the initiatives will keep living for as long as we have fun making world bett
 - [gun-avatar](https://www.npmjs.com/package/gun-avatar) - simple JS avatar generator for use with gun `SEA` cryptographic keypairs
 - [@gun-vue/composables](https://www.npmjs.com/package/@gun-vue/composables) - Gun DB + Vue UI composables collection
 - [@gun-vue/components](https://www.npmjs.com/package/@gun-vue/components) - Library of reusable components for Gun built with Vue
-- [@gun-vue/app](https://www.npmjs.com/package/@gun-vue/app)
+- [@gun-vue/app](https://www.npmjs.com/package/@gun-vue/app) - Single HTML file offline-first web-app with most of modern apps features but p2p. 
 - [@gun-vue/relay](https://www.npmjs.com/package/@gun-vue/relay) - toolset for easy p2p app development with Gun database and Vue 3 reactive components system
 
 ## Coding statistics

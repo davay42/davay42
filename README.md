@@ -46,7 +46,7 @@ I'm a big fan of Evan You, Antony Fu, Mark Nadal and other open-source authors m
 - [WEBMIDI.js](https://webmidijs.org/) - Wrapper over Web Midi API for more musical scale of interactions
 - [Elementary.audio](https://elementary.audio) - High performance JS+WASM audio engine
 - [ToneJS](https://tonejs.github.io/) - Wrapper over Web Audio API for more musical scale of interactions
-- [GUN](https://gun.eco) -  GUN - distributed reactive p2p graph database and SEA - friendly signing and encryption system
+- [GUN](https://gun.eco) -  GUN - distributed reactive p2p graph database and SEA - signing, encryption and authorization
 
 
 I'm trying to maintain a good balance of making profitable commercial projects along with sharing open source knowledge hubs and services for everyone to use and build upon. I know that millions of people would pass by here before I meet those of you, who can appreciate the work and have enough will to go for some collaborative project with me. But take the risk and know that we'll gradually contact, meet and grow into an international community of exceptional geeks reimagining the world with open-source projects. Ready to make your first contribution today? Any ideas? Questions? Contact me for details.

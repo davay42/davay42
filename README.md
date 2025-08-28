@@ -36,7 +36,7 @@ Let's make something! So the initiatives would flow as long as we enjoy making w
 
 ## 🛸 Ultramodern frontend dev stack
 
-I'm vibing with Evan You, Antony Fu and other great open-source authors making web-development such a beautiful experience and ever growing community. I use only MIT or similar lincensed content in my projects and put such licences on all of my own creations here. It's beautiful!
+I'm vibing with Evan You, Antony Fu, Paul Miller and other great open-source authors making web-development such a beautiful experience and ever growing community. I use only MIT or open lincensed content in my projects and put such licences on all of my own creations here. It all fits together so nicely!
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Native language of the web
 - [Vite](https://vitejs.dev) - Lightning fast JavaScript dev experience and build speed
